@@ -8,7 +8,7 @@
 
 ## <div align="center">My Skill Set</div>  
 <div align="center">    
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 20px" src="(https://github.com/user-attachments/assets/28a7a99d-5fb5-4058-945b-0376d496c69d)"
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/28a7a99d-5fb5-4058-945b-0376d496c69d"
  alt="Android" height="40" /></a> 
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="40" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" /></a>  
