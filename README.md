@@ -41,7 +41,7 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arre-adi&show_icons=true&count_private=true&hide_border=true" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arre-adi&layout=compact&hide_border=true" align="center" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arre-adi&layout=compact&hide_border=true" align="center" width="37%" />
 </div>
 
 <br/>  
