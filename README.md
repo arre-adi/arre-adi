@@ -41,12 +41,12 @@
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arre-adi&show_icons=true&count_private=true&hide_border=true" align="center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arre-adi&layout=compact&hide_border=true" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arre-adi&layout=compact&hide_border=true" align="center" width="40%" />
 </div>
 
 <br/>  
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Aditya84a&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=arre-adi&&style=flat-square" align="center" />
 </div>  
   
 <br/>
