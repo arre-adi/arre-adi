@@ -5,7 +5,7 @@
   
 <br/>  
 
-## <div align="center">My Skill Set</div>  
+## My Skill Set  
 <div align="center">    
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/28a7a99d-5fb5-4058-945b-0376d496c69d"
  alt="Android" height="50" /></a> 
